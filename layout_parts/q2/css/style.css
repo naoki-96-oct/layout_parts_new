@@ -7,10 +7,33 @@
   clear: both;
 }
 
-.q1__content {
+.q2{
   width: 900px;
-  margin: 0 auto;
+  margin:  0 auto;
   padding: 20px;
-  background-color: #eff3f4;
+  background-color: #ECF1F2;
 }
+
+.q2__text{
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
+
+.q2__thumb left{
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.q2__thumb right{
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+
+
+
+
 /* 回答はここに書いてね */
